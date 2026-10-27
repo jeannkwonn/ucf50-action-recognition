@@ -1,0 +1,9 @@
+[FORMAT]
+max-line-length=120
+
+[DESIGN]
+max-args=12
+max-positional-arguments=12
+
+[TYPECHECK]
+generated-members=cv2.*
